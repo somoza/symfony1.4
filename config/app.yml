@@ -1,0 +1,6 @@
+all:
+  emails:
+    from: info@projectsite.com
+    from_name: Project Name
+    contact_to: julian@animus.com.ar
+  site_name: New Site Name

@@ -1,0 +1,17 @@
+root:
+  root: true
+  orientation: hbr
+  theme: ThemePanel
+ 
+  menu1:
+    title: Start here
+    icon: menu.png #this is found in web/images
+    submenu: # a submenu for menu1
+      menu1.1:
+        title: go to google
+        url: http://www.google.com
+      menu1.2:
+        title: go to yahoo
+        description: another search engine
+        url: http://www.yahoo.com
+        target: blank

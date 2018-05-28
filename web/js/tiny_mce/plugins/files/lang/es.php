@@ -1,0 +1,241 @@
+<?php
+
+/** Español localization file for KCFinder
+  * author: Julián Somoza
+  */
+
+$lang = array(
+
+    '_locale' => "es_ES.UTF-8",  // UNIX localization code
+    '_charset' => "utf-8",       // Browser charset
+
+    // Date time formats. See http://www.php.net/manual/en/function.strftime.php
+    '_dateTimeFull' => "%A, %e %B, %Y %H:%M",
+    '_dateTimeMid' => "%a %e %b %Y %H:%M",
+    '_dateTimeSmall' => "%d.%m.%Y %H:%M",
+
+    "You don't have permissions to upload files." =>
+    "No tiene permiso para subir archivos.",
+
+    "You don't have permissions to browse server." =>
+    "No tiene permiso para examinar archivos.",
+
+    "Cannot move uploaded file to target folder." =>
+    "No se puede mover el archivo subido a la carpeta de destino",
+
+    "Unknown error." =>
+    "Error desconocido.",
+
+    "The uploaded file exceeds {size} bytes." =>
+    "El archivo excede los {size} bytes.",
+
+    "The uploaded file was only partially uploaded." =>
+    "El archivo subido fue parcialmente cargado.",
+
+    "No file was uploaded." =>
+    "Ningun archivo ha sido subido.",
+
+    "Missing a temporary folder." =>
+    "No se encuentra la carpeta temporal.",
+
+    "Failed to write file." =>
+    "Fallo al escribir archivo.",
+
+    "Denied file extension." =>
+    "Extensión de archivo denegada.",
+
+    "Unknown image format/encoding." =>
+    "Formato de imagen desconocida.",
+
+    "The image is too big and/or cannot be resized." =>
+    "La imagen es demasiado grande y/o no puede ser achicada.",
+
+    "Cannot create {dir} folder." =>
+    "La carpeta {dir} no pudo ser creada.",
+
+    "Cannot write to upload folder." =>
+    "La carpeta upload no tiene permisos de escritura.",
+
+    "Cannot read .htaccess" =>
+    "El archivo .htaccess no puede ser leido.",
+
+    "Incorrect .htaccess file. Cannot rewrite it!" =>
+    ".htaccess incorrecto. No puede sobreescribirse.",
+
+    "Cannot read upload folder." =>
+    "No se puede leer la carpeta upload.",
+
+    "Cannot access or create thumbnails folder." =>
+    "No se puede acceder o crear la carpeta thumbnails.",
+
+    "Cannot access or write to upload folder." =>
+    "No se puede acceder o crear la carpeta upload.",
+
+    "Please enter new folder name." =>
+    "Por favor, ingrese el nombre de la nueva carpeta.",
+
+    "Unallowable characters in folder name." =>
+    "Caracter no soportado en el nombre de la nueva carpeta.",
+
+    "Folder name shouldn't begins with '.'" =>
+    "El nombre de la nueva carpeta no puede comenzar con '.'",
+
+    "Please enter new file name." =>
+    "Por favor, ingrese el nombre del nuevo archivo",
+
+    "Unallowable characters in file name." =>
+    "Caracter no válido en el nombre del nuevo archivo..",
+
+    "File name shouldn't begins with '.'" =>
+    "El nombre del nuevo archivo no puede comenzar con '.'",
+
+    "Are you sure you want to delete this file?" =>
+    "¿Está seguro de que desea eliminar este archivo?",
+
+    "Are you sure you want to delete this folder and all its content?" =>
+    "¿Está seguro de que desea eliminar esta carpeta?",
+
+    "Inexistant or inaccessible folder." =>
+    "Carpeta inexistente o inaccesible.",
+
+    "Undefined MIME types." =>
+    "Tipo MIME no definido.",
+
+    "Fileinfo PECL extension is missing." =>
+    "Falta extensión PECL del archivo.",
+
+    "Opening fileinfo database failed." =>
+    "Fallo al abrir base de información del archivo.",
+
+    "You can't upload such files." =>
+    "No puede subir este archivo.",
+
+    "The file '{file}' does not exist." =>
+    "El archivo '{file}' no existe.",
+
+    "Cannot read '{file}'." =>
+    "Imposible leer el archivo '{file}'.",
+
+    "Cannot copy '{file}'." =>
+    "Imposible copiar el archivo '{file}'.",
+
+    "Cannot move '{file}'." =>
+    "Imposible mover el archivo '{file}'.",
+
+    "Cannot delete '{file}'." =>
+    "Imposible eliminar el archivo '{file}'.",
+
+    "Click to remove from the Clipboard" =>
+    "Click para eliminarlo del portapapeles.",
+
+    "This file is already added to the Clipboard." =>
+    "Este archivo ya se encuentra en el portapapeles.",
+
+    "Copy files here" =>
+    "Copie los archivos aquí",
+
+    "Move files here" =>
+    "Mueva los archivos aquí",
+
+    "Delete files" =>
+    "Eliminar archivos",
+
+    "Clear the Clipboard" =>
+    "Vaciar el portapapeles",
+
+    "Are you sure you want to delete all files in the Clipboard?" =>
+    "¿Está seguro de que desea eliminar todos los archivos en el portapapeles?",
+
+    "Copy {count} files" =>
+    "Copiar {count} archivos",
+
+    "Move {count} files" =>
+    "Mover {count} archivos",
+
+    "Add to Clipboard" =>
+    "Agregar al portapapeles",
+
+    "New folder name:" => "Nuevo nombre de la carpeta:",
+    "New file name:" => "Nuevo nombre del archivo:",
+
+    "Upload" => "Subir",
+    "Refresh" => "Recargar",
+    "Settings" => "Preferencias",
+    "Maximize" => "Maximizar",
+    "About" => "Acerca de",
+    "files" => "archivos",
+    "View:" => "Vista:",
+    "Show:" => "Mostrar:",
+    "Order by:" => "Ordenar por:",
+    "Thumbnails" => "Miniatura",
+    "List" => "Lista",
+    "Name" => "Nombre",
+    "Size" => "Tamaño",
+    "Date" => "Fecha",
+    "Descending" => "Descendente",
+    "Uploading file..." => "Cargando archivo...",
+    "Loading image..." => "Cargando imagen...",
+    "Loading folders..." => "Cargando carpetas...",
+    "Loading files..." => "Cargando archivos...",
+    "New Subfolder..." => "Nueva subcarpeta...",
+    "Rename..." => "Renombrar...",
+    "Delete" => "Eliminar",
+    "OK" => "OK",
+    "Cancel" => "Cancelar",
+    "Select" => "Seleccione",
+    "Select Thumbnail" => "Seleccione miniatura",
+    "View" => "Vista",
+    "Download" => "Descargar",
+    "Clipboard" => "Portapapeles",
+
+    // VERSION 2 NEW LABELS
+
+    "Cannot rename the folder." =>
+    "No se puede renombrar la carpeta.",
+
+    "Non-existing directory type." =>
+    "El tipo de carpeta no existe.",
+
+    "Cannot delete the folder." =>
+    "No se puede eliminar la carpeta.",
+
+    "The files in the Clipboard are not readable." =>
+    "Los archivos del portapapeles no son legibles.",
+
+    "{count} files in the Clipboard are not readable. Do you want to copy the rest?" =>
+    "{count} archivos en el portapapeles no son legibles. ¿Desea copiar el resto?",
+
+    "The files in the Clipboard are not movable." =>
+    "Los archivos en el portapapeles no son movibles.",
+
+    "{count} files in the Clipboard are not movable. Do you want to move the rest?" =>
+    "{count} archivos en el portapapeles no son movibles. ¿Desea mover el resto?",
+
+    "The files in the Clipboard are not removable." =>
+    "Los archivos en el portapapeles no pueden eliminarse.",
+
+    "{count} files in the Clipboard are not removable. Do you want to delete the rest?" =>
+    "{count} archivos en el portapapeles no pueden eliminarse. ¿Desea eliminar el resto?",
+
+    "The selected files are not removable." =>
+    "El archivo seleccionado no puede eliminarse.",
+
+    "{count} selected files are not removable. Do you want to delete the rest?" =>
+    "{count} de los archvos seleccionados no pueden eliminarse. ¿Desea eliminar el resto?",
+
+    "Are you sure you want to delete all selected files?" =>
+    "¿Está seguro de que desea eliminar todos los archivos seleccionados?",
+
+    "Failed to delete {count} files/folders." =>
+    "Error al eliminar {count} archivos/carpetas.",
+
+    "A file or folder with that name already exists." =>
+    "Ya existe algún archivo con este nombre.",
+
+    "selected files" => "Archivos seleccionados.",
+    "Type" => "Tipo",
+    "Select Thumbnails" => "Seleccione miniaturas",
+    "Download files" => "Descargar arhivos",
+);
+
+?>

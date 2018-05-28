@@ -1,0 +1,33 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           bug
+    theme:                 jroller
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          bug
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+    # extra: [show, print, export]
+
+    config:
+      actions: ~
+      fields:
+        module: { label: Modulo }
+        action: { label: Acción }
+        comment: { label: Comentario }
+        solve: { label: Marcar resuelto }
+      list:
+        actions: []
+        title: Reporte de fallas
+        display: [url, module, action, comment, _solve, created_at]
+        object_actions:
+          _edit: ~
+          _delete: ~
+      filter:  ~
+      form:    ~
+      edit:    ~
+      new:     ~
+      show:    ~

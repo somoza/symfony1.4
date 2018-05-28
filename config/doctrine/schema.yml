@@ -1,0 +1,10 @@
+#BUG REPORT
+# Bug:
+#   actAs:
+#     Timestampable: ~
+#   columns:
+#     url: { type: string(255) }
+#     module: { type: string(50) }
+#     action: { type: string(50) }
+#     comment: { type: clob }
+#     is_solved: { type: boolean, default: false }

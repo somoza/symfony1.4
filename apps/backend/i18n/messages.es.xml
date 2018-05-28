@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd" >
+<xliff version="1.0">
+    <file original="global" source-language="en" target-language="es" datatype="plaintext">
+        <header />
+        <body>
+            <!-- Menu -->
+            <trans-unit>
+                <source>Copyright &copy; %current_year% %site_name%. All rights reserved</source>
+                <target>Copyright &copy; %current_year% %site_name%. Todos los derechos reservados</target>
+            </trans-unit>
+	    	<trans-unit>
+                <source>Dashboard</source>
+                <target>Dashboard</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View site</source>
+                <target>Ver sitio</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Settings</source>
+                <target>Opciones</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Recipes</source>
+                <target>Recetas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments</source>
+                <target>Comentarios</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rates</source>
+                <target>Puntuaciones</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Categories</source>
+                <target>Categorías</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Chef levels</source>
+                <target>Niveles del cocinero</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Difficulties</source>
+                <target>Dificultades</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Drinks</source>
+                <target>Bebidas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Seasons</source>
+                <target>Temporadas</target>
+            </trans-unit>
+
+
+
+            <!-- Errors -->
+
+            <trans-unit>
+                <source>Error 404</source>
+                <target>Error 404</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The resource you are looking for does not exist or has been deleted</source>
+                <target>El recurso que busca no existe o ha sido borrado</target>
+            </trans-unit>
+
+            <!-- Secure page -->
+
+            <trans-unit>
+                <source>Sorry, you do not have permission to view this content</source>
+                <target>Disculpe, usted no posee autorización para ver este contenido</target>
+            </trans-unit>
+
+            <!-- Dashboard -->
+
+            <trans-unit>
+                <source>Welcome to the content management system (CMS) of "%site_name%"</source>
+                <target>Bienvenido al sistema de gestión de contenidos (CMS) de "%site_name%"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To start the administration, access to some of the modules available through the top menu</source>
+                <target>Para iniciar la administración, acceda a algunos de los módulos disponibles a través del menú de la izquierda</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To modify your account information click on your user name (upper right)</source>
+                <target>Para modificar la información de la cuenta, haga clic en su nombre de usuario (esquina superior derecha)</target>
+            </trans-unit>
+
+            <!-- Flash messages -->
+            
+            <trans-unit>
+                <source>The item was created successfully</source>
+                <target>El elemento se ha creado correctamente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The item was updated successfully</source>
+                <target>El elemento se ha actualizado correctamente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The item was created successfully. You can add another one below</source>
+                <target>El elemento se ha creado correctamente y ahora puedes crear otro elemento</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The item was updated successfully. You can add another one below</source>
+                <target>El elemento se ha actualizado correctamente y ahora puedes crear otro elemento</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The item has not been saved due to some errors</source>
+                <target>El elemento no se ha guardado porque se ha producido algún error</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The item was deleted successfully</source>
+                <target>El elemento se ha borrado correctamente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You must at least select one item</source>
+                <target>Debes seleccionar al menos un elemento</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You must select an action to execute on the selected items</source>
+                <target>Selecciona la acción que quieres ejecutar sobre los elementos seleccionados</target>
+            </trans-unit>
+            <trans-unit>
+                <source>A problem occurs when deleting the selected items as some items do not exist anymore</source>
+                <target>Se ha producido un error al borrar los elementos seleccionados porque al menos uno de ellos ya no existe</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The selected items have been deleted successfully</source>
+                <target>Los elementos seleccionados se han borrado correctamente</target>
+            </trans-unit>
+            <trans-unit>
+                <source>A problem occurs when deleting the selected items</source>
+                <target>Se ha producido un error al borrar los elementos seleccionados</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your information has been updated successfully</source>
+                <target>Sus datos han sido actualizados correctamente</target>
+            </trans-unit>
+
+
+            <!-- Actions -->
+
+            <trans-unit>
+                <source>Actions</source>
+                <target>Acciones</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New</source>
+                <target>Nuevo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Export</source>
+                <target>Exportar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Edit</source>
+                <target>Editar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delete</source>
+                <target>Borrar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show</source>
+                <target>Ver</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cancel</source>
+                <target>Cancelar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>Guardar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save and Add</source>
+                <target>Guardar y Agregar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are You Sure?</source>
+                <target>¿Está Seguro?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Choose an action</source>
+                <target>Elija una acción</target>
+            </trans-unit>
+            <trans-unit>
+                <source>go</source>
+                <target>ok</target>
+            </trans-unit>
+
+            <!-- Filters -->
+
+            <trans-unit>
+                <source>Filters</source>
+                <target>Filtros</target>
+            </trans-unit>
+            <trans-unit>
+                <source>-- Add Filter --</source>
+                <target>-- Agregar filtro --</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Filter</source>
+                <target>Filtrar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reset</source>
+                <target>Reestablecer</target>
+            </trans-unit>
+            <trans-unit>
+                <source>is empty</source>
+                <target>vacío</target>
+            </trans-unit>
+            <trans-unit>
+                <source>yes or no</source>
+                <target>si o no</target>
+            </trans-unit>
+            <trans-unit>
+                <source>yes</source>
+                <target>si</target>
+            </trans-unit>
+            <trans-unit>
+                <source>no</source>
+                <target>no</target>
+            </trans-unit>
+
+            <!-- Paginator -->
+
+            <trans-unit>
+                <source>(page %%page%%/%%nb_pages%%)</source>
+                <target>(página %%page%%/%%nb_pages%%)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>[0] |[1] 1 result|(1,+Inf] %1% results</source>
+                <target>[0] |[1] 1 resultado|(1,+Inf] %1% resultados</target>
+            </trans-unit>
+            <trans-unit>
+                <source>First</source>
+                <target>Primera</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Last</source>
+                <target>Última</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No Results</source>
+                <target>No hay resultados</target>
+            </trans-unit>
+
+            <!-- Export -->
+            
+            <trans-unit>
+                <source>Include in Export</source>
+                <target>Inlcuir en exporte</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Field</source>
+                <target>Campo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Label (optional)</source>
+                <target>Etiqueta (opcional)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The table below represents the data that will be exported.  Use the filters to refine your export</source>
+                <target>La siguiente tabla representa los datos que se exportarán. Usa los filtros para acotar la exportación</target>
+            </trans-unit>
+
+            <!-- Edit account -->
+
+            <trans-unit>
+                <source>Edit account details</source>
+                <target>Editar datos de la cuenta</target>
+            </trans-unit>
+
+            <!-- Mensajes de validadores -->
+
+            <trans-unit>
+                <source>This field is required</source>
+                <target>Este campo es obligatorio</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The value entered is invalid</source>
+                <target>El valor ingresado no es válido</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This email address is already being used</source>
+                <target>Esta dirección de email ya está siendo usada</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This username is already being used</source>
+                <target>Este nombre de usuario ya está siendo usado</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The two passwords must be the same.</source>
+                <target>Las contraseñas deben coincidir</target>
+            </trans-unit>
+
+            <!-- Forgot password process -->
+
+            <trans-unit>
+                <source>Forgot your password?</source>
+                <target>¿Olvidó su contraseña?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do not worry, we can help you get back in to your account safely!</source>
+                <target>No se preocupe, podemos ayudarle a volver a su cuenta de forma segura!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fill out the form below to request an e-mail with information on how to reset your password.</source>
+                <target>Rellene el siguiente formulario para solicitar un e-mail con información sobre cómo restablecer la contraseña.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Request</source>
+                <target>Solicitar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid e-mail address!</source>
+                <target>La dirección de e-mail no es válida!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Check your e-mail! You should receive something shortly!</source>
+                <target>Compruebe su dirección de e-mail! Usted debe recibir algo en breve!</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgot Password Request for "%username%" user</source>
+                <target>Solicitud de cambio de contraseña para el usuario "%username%"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Password for "%username%" user</source>
+                <target>Nueva contraseña para el usuario "%username%"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hi %first_name%</source>
+                <target>Hola %first_name%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hello %name%</source>
+                <target>Hola %name%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This e-mail is being sent because you requested information on how to reset your password.</source>
+                <target>Esta dirección de correo está siendo enviado, ya que solicitó información sobre cómo restablecer la contraseña.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>You can change your password by clicking the below link which is only valid for 24 hours:</source>
+                <target>Usted puede cambiar su contraseña haciendo clic en el link de abajo, que sólo es válido durante 24 horas:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click to change password</source>
+                <target>Haga clic para cambiar la contraseña</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Enter your new password in the form below.</source>
+                <target>Ingrese su nueva contraseña en el formulario de abajo.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Change</source>
+                <target>Cambiar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Below you will your username and new password:</source>
+                <target>A continuación su nombre de usuario y contraseña de nuevo:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password updated successfully!</source>
+                <target>Contraseña actualizada correctamente!</target>
+            </trans-unit>
+
+            <!-- sfGuardUser -->
+
+            <trans-unit>
+                <source>User list</source>
+                <target>Listado de usuarios</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New user</source>
+                <target>Nuevo usuario</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Export users</source>
+                <target>Exportar usuarios</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Showing user "%%name%%"</source>
+                <target>Viendo usuario "%%name%%"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Editing user "%%name%%"</source>
+                <target>Editando usuario "%%name%%"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>First name</source>
+                <target>Nombre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Last name</source>
+                <target>Apellido</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgot Password?</source>
+                <target>Recordar contraseña</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Working</source>
+                <target>Procesando</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username or Password incorrect.</source>
+                <target>Usuario o Clave incorrecta.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Redirecting</source>
+                <target>Redireccionando</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email address</source>
+                <target>Dirección de email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username</source>
+                <target>Usuario</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Remember me</source>
+                <target>Recordarme</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Username or E-Mail</source>
+                <target>Usuario o email</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Algorithm</source>
+                <target>Algoritmo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Salt</source>
+                <target>Sal</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password</source>
+                <target>Contraseña</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Password again</source>
+                <target>Repetir contraseña</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is active</source>
+                <target>¿Activado?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is super admin</source>
+                <target>¿Super administrador?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Last login</source>
+                <target>Último login</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Created at</source>
+                <target>Fecha y hora de alta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Updated at</source>
+                <target>Última actualización</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Groups</source>
+                <target>Grupos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Permissions</source>
+                <target>Permisos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Remember</source>
+                <target>Recordar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Signin</source>
+                <target>Conectar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Signout</source>
+                <target>Salir</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please enter your username and password to sign in</source>
+                <target>Por favor ingrese su nombre de usuario y contraseña para conectarse</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Forgot your password?</source>
+                <target>¿Olvidó su contraseña?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Want to register?</source>
+                <target>¿Quiere registrarse?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The username and/or password is invalid.</source>
+                <target>El nombre de usuario y/o la contraseña no es válida.</target>
+            </trans-unit>
+
+            <!-- sfGuardGroup -->
+
+            <trans-unit>
+                <source>Group list</source>
+                <target>Listado de grupos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New group</source>
+                <target>Nuevo grupo</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Editing group "%%name%%"</source>
+                <target>Editando grupo "%%name%%"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Export groups</source>
+                <target>Exportar grupos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name</source>
+                <target>Nombre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Description</source>
+                <target>Descripción</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Users</source>
+                <target>Usuarios</target>
+            </trans-unit>
+
+            <!-- sfGuardPermission -->
+
+            <trans-unit>
+                <source>Permission list</source>
+                <target>Listado de permisos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New permission</source>
+                <target>Nuevo permiso</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Editing permission "%%name%%"</source>
+                <target>Editando permiso "%%name%%"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Showing permission "%%name%%"</source>
+                <target>Viendo permiso "%%name%%"</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Export permissions</source>
+                <target>Exportar permisos</target>
+            </trans-unit>
+
+            <!-- Campos globales -->
+
+            <trans-unit>
+                <source>Number of recipes</source>
+                <target>Total de recetas</target>
+            </trans-unit>
+
+            <!-- Season -->
+
+            <trans-unit>
+                <source>Seasonal List</source>
+                <target>Listado de temporadas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Season</source>
+                <target>Nueva Temporada</target>
+            </trans-unit>
+
+             <!-- Drink -->
+
+            <trans-unit>
+                <source>Drinks List</source>
+                <target>Listado de bebidas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Drink</source>
+                <target>Nueva Bebida</target>
+            </trans-unit>
+
+            <!-- Difficulty -->
+
+            <trans-unit>
+                <source>Difficulties List</source>
+                <target>Listado de dificultades</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Difficulty</source>
+                <target>Nueva Dificultad</target>
+            </trans-unit>
+
+            <!-- Chef Level -->
+
+            <trans-unit>
+                <source>Chef Levels List</source>
+                <target>Listado de Niveles del Cocinero</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Chef Level</source>
+                <target>Nuevo Nivel del Cocinero</target>
+            </trans-unit>
+
+            <!-- Category -->
+
+            <trans-unit>
+                <source>Categories List</source>
+                <target>Listado de Categorías</target>
+            </trans-unit>
+            <trans-unit>
+                <source>New Category</source>
+                <target>Nueva Categoría</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Parent category, if any</source>
+                <target>Categoría padre, si tiene</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Parent</source>
+                <target>Categoría padre</target>
+            </trans-unit>
+            <trans-unit>
+                <source>None</source>
+                <target>Ninguna</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Prefix</source>
+                <target>Prefijo</target>
+            </trans-unit>
+
+            <!-- Rate -->
+
+            <trans-unit>
+                <source>Rates List</source>
+                <target>Listado de Puntuaciones</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Recipe</source>
+                <target>Receta</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ip address</source>
+                <target>Dirección IP</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rate</source>
+                <target>Puntuación</target>
+            </trans-unit>
+
+            <!-- Comment -->
+            
+            <trans-unit>
+                <source>Comments List</source>
+                <target>Listado de Comentarios</target>
+            </trans-unit>
+            <trans-unit>
+                <source>¿Is valid?</source>
+                <target>¿Es válido?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comment</source>
+                <target>Comentarios</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Validate</source>
+                <target>Validar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalidate</source>
+                <target>Desactivar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The selected items have been validated successfully</source>
+                <target>Los elementos seleccionados han sido validados con éxito</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The selected items have been desactivated successfully</source>
+                <target>Los elementos seleccionados han sido desactivados con éxito</target>
+            </trans-unit>
+
+            <!-- Recipe -->
+
+            <trans-unit>
+                <source>Recipes List</source>
+                <target>Listado de Recetas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Title</source>
+                <target>Título</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ingredients</source>
+                <target>Ingredientes</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Category</source>
+                <target>Categoría</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Picture</source>
+                <target>Foto</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Chef level</source>
+                <target>Nivel del cocinero</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Difficulty</source>
+                <target>Dificultad</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Season</source>
+                <target>Temporada</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Drink</source>
+                <target>Bebida</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Preparation time</source>
+                <target>Tiempo de preparación</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cooking time</source>
+                <target>Tiempo de cocción</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Calories</source>
+                <target>Calorías</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fat</source>
+                <target>Grasas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Cholesterol</source>
+                <target>Colesterol</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of comments</source>
+                <target>Total de comentarios</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of rates</source>
+                <target>Total de puntuaciones</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Rate average (rounding down)</source>
+                <target>Promedio de puntuaciones (redondeando para abajo)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Number of visits</source>
+                <target>Total de visitas</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No comments yet</source>
+                <target>No hay comentarios todavía</target>
+            </trans-unit>
+            <trans-unit>
+                <source>No rates yet</source>
+                <target>No hay puntuaciones todavía</target>
+            </trans-unit>
+            <trans-unit>
+                <source>¿Are you sure? Remember that deleting this recipe, deleted the comments and ratings it has received</source>
+                <target>¿Está seguro? Recuerde que al borrar esta receta, se borran también los comentarios y puntuaciones que haya recibido</target>
+            </trans-unit>
+
+            <!-- Flash globales -->
+
+            <trans-unit>
+                <source>This item can not be deleted as there are recipes that depend on</source>
+                <target>Este item no puede ser eliminado, ya que hay recetas que dependen de el</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There are items that can not be deleted as there are recipes that depend on</source>
+                <target>Hay items que no pueden ser borrados ya que hay recetas que dependen de el</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Content</source>
+                <target>Contenido</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Image</source>
+                <target>Imagen</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is clickeable</source>
+                <target>Clickeable?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Is featured</source>
+                <target>Destacado?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fields</source>
+                <target>Campos</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Filters</source>
+                <target>Filtros</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Filter</source>
+                <target>Filtrar</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reset</source>
+                <target>Resetear</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure?</source>
+                <target>Esta seguro?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Page</source>
+                <target>Página</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View %1% - %2% of %3%</source>
+                <target>Viendo %1% - %2% de %3%</target>
+            </trans-unit>
+            <trans-unit>
+                <source>of %1%</source>
+                <target>de %1%</target>
+            </trans-unit>
+	    	<trans-unit>
+                <source>Logout</source>
+<!--                 <target>Salir</target> -->
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

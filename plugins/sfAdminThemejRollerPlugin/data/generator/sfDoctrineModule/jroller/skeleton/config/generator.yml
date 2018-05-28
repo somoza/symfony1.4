@@ -1,0 +1,24 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+##CONFIG##
+    # extra: [show, print, export]
+
+    config:
+      actions: ~
+      fields:  ~
+      list:
+        display: [name]
+        title: Listado
+        object_actions:
+          _edit: ~
+          _delete:
+            confirm: Esta seguro? 
+      filter:  ~
+      form:    ~
+      edit:
+        title: Editando
+      new:
+        title: Creando
+      show:
+        title: Mostrando

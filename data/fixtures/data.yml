@@ -1,0 +1,19 @@
+sfGuardUser:
+  sfGuardUser_1:
+    first_name: Julian
+    last_name: Somoza
+    email_address: julian.somoza@gmail.com
+    username: admin
+    algorithm: sha1
+    salt: 3b83b91e86e906269e6ba4c5270c3d22
+    password: d505651724ce62581a38db964f58b75237ac3c33
+    is_active: true
+    is_super_admin: true
+    last_login: '2011-05-30 15:57:11'
+    created_at: '2011-04-03 20:17:40'
+    updated_at: '2011-05-30 15:57:11'
+
+sfGuardPermission:
+  Permission_admin:
+    name:           admin
+    description:    Permiso de administrador
